@@ -12,6 +12,7 @@ lecture|version|function
 01|1.0|RMB to USD
 01|2.0|judge type of currency(RMB or USD) and then convert
 01|3.0|until user press 'q' then exit program
+01|4.0|pack def convert_currency as wrapped function
 02||
 03||
 04||
